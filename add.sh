@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-read -p "Enter first value: " m
-read -p "Enter second value: " n
-z=$(( $m + $n ))
+read -p "Enter first value: " a
+read -p "Enter second value: " b
+z=$(( $a + $b ))
 echo $z
